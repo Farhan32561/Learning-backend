@@ -117,7 +117,7 @@ const server = http.createServer((req, res) => {
     <div class="main-container">
       <div class="name-card">
         <h1>Hello, I'm ${myName}!</h1>
-        <p class="subtitle">Saying <span class="highlight">Hi</span> from my first <span class="highlight">Node.js</span> server!</p>
+        <p class="subtitle">Welcome <span class="highlight">to</span> my first <span class="highlight">Node.js</span> server!</p>
       </div>
     </div>
 
